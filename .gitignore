@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+*~
+
+# Backup files
+*old.py
+*backup*
+*~
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+Desktop.ini
+
+# Cache
+.cache/
+
+# Your specific files to ignore
+Local Computer/
+Run Command.txt
+git/
+streamlit_app old.py
