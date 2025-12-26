@@ -1,0 +1,2 @@
+# JurisprudenceHindiOnly
+JurisprudenceHindiOnly
